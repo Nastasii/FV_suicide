@@ -1,4 +1,4 @@
 # FV_suicide
-Eye-tracking data processing
+Eye-tracking data processing of Free-view paradigm
 
-Contact me if any questions: Hollowlee@outlook.com
+
