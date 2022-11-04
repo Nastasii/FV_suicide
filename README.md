@@ -10,6 +10,6 @@ There were also some additional functions referenced and used in that main scrip
 
 The raw eye-tracking data was collected by Eye-Link 1000 system.(https://www.sr-research.com/)
 
-The main script was orignially programmed and running on the version of MatLab2018a.(Windows 10)
+The main script was originally programmed and running on the version of MatLab2018a.(Windows 10)
 
 
